@@ -1,6 +1,8 @@
 # ninja log v5
-5	1367	7361495549087731	CMakeFiles/account_db.dir/src/account_item.cpp.obj	ac7ad68cea3ccf7a
 1367	1482	7361495550223742	account_db.exe	7468441c4ba85928
-3	1335	7361488940933598	CMakeFiles/account_db.dir/src/xiaogu_account.cpp.obj	79a85a87e16dd9d0
-0	149	7361633084345621	build.ninja	7c53c8d443d93a9f
-3	1292	7361495548349338	CMakeFiles/account_db.dir/src/account.cpp.obj	f2ea8fe56f545644
+0	149	7361657535008935	build.ninja	7c53c8d443d93a9f
+0	1375	7361657675925496	CMakeFiles/account_mysql.dir/src/account.cpp.obj	dc852b2bd20bd319
+5	1449	7361657676673489	CMakeFiles/account_mysql.dir/src/account_item.cpp.obj	648143182a0c2ffe
+1449	1572	7361657677870293	account_mysql.exe	3b0942268e8dcb1f
+3	1248	7361658602744533	CMakeFiles/account_mysql.dir/src/account.cpp.obj	dc852b2bd20bd319
+1249	1356	7361658603781460	account_mysql.exe	3b0942268e8dcb1f

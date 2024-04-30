@@ -4,15 +4,21 @@
 **需要的配置：**
 1. 将CMakeLists.txt中信息改成自己的
 2. 将mysql中的两个文件 libmysql.dll 和 libmysql.lib 添加到**cmake-build-debug**中，我的为E:\MySql\MySQL Server 8.0\lib
-    ![img_1.png](img_1.png)
-3. 添加环境变量（我用的clion）
     
-    （1）点击编辑配置：
+    ![img_1.png](img_1.png)
 
-    ![img_3.png](img_2.png)
+[//]: # (3. 添加环境变量（我用的clion）)
 
-    （2）点击编辑配置：
+[//]: # (    )
+[//]: # (    （1）点击编辑配置：)
 
-    ![img_4.png](img_3.png)
+[//]: # ()
+[//]: # (    ![img_3.png]&#40;img_2.png&#41;)
+
+[//]: # ()
+[//]: # (    （2）点击编辑配置：)
+
+[//]: # ()
+[//]: # (    ![img_4.png]&#40;img_3.png&#41;)
 
 

@@ -1,8 +1,8 @@
-# Install script for directory: E:/CLion/cpp/items/account_db
+# Install script for directory: E:/CLion/cpp/items/account_mysql
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/account_db")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/account_mysql")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/CLion/cpp/items/account_db/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/CLion/cpp/items/account_mysql/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
